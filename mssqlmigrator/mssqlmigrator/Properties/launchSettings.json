@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mssqlmigrator": {
+      "commandName": "Project",
+      "commandLineArgs": "down"
+    }
+  }
+}

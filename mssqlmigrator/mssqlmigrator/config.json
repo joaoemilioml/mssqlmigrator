@@ -1,0 +1,5 @@
+{
+  "dev": "Server=nalcodatabase.southcentralus.cloudapp.azure.com;Database=bluops-dev;User ID=RadixDev; Password=Radix@123;",
+  "stg": "",
+  "prod": ""
+}
